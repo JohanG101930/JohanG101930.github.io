@@ -11,3 +11,7 @@ I am a computer science student at CSUF and I expect to graduate in 2028.
 * Lab 9, Part 1
 
   This is my second favorite lab because we started working with fstream files to count how many words were there and how many misspelled words. This was tricky because it was hard to write the codes down and it took me and my partner a little while to get it down. In the end it was fun doing the lab because it was a little complex.
+
+* Lab 11
+
+  I enjoyed the whole lab 11 because my partner and I started working on classes and how to set it up. The easy parts were setting up the classes like name_, population_ and land_area_. The programmers use these private classes so people running the code do not have to use it. Overall this lab was pretty fun and easy once you get the hang of it.
